@@ -1,6 +1,13 @@
 # Curso JAVA POO-CursoEmVideo
 
+## Introdução
+
+Neste repositório, encontram-se os exercícios resolvidos durante o meu aprendizado do curso JAVA POO - Curso em Vídeo. Tentei resolver os exercicios a par com as aulas teóricas, para que a aprendizagem seja mais acessível.
+Apesar disso, os exercícios podem apresentar ligeiras diferenças, contudo nada de que mude o contexto do exercício.
+
 ## Tópicos de Cada Aula
+
+De seguida, é apresentada uma tabela com os tópicos abordados em cada exercício, o que facilita a pesquisa.
 
 | Aulas | Tópicos |
 | --- | --- |
