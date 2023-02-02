@@ -15,3 +15,4 @@ De seguida, é apresentada uma tabela com os tópicos abordados em cada exercíc
 | Aula03 | Configuração da Visibilidade de atributos e métodos |
 | Aula04 | Métodos Getter, Setter e Construtor |
 | Aula05 | Exemplo Conta Bancária |
+| Aula06 | Encapsulamento|
