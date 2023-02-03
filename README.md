@@ -18,3 +18,4 @@ De seguida, é apresentada uma tabela com os tópicos abordados em cada exercíc
 | Aula06 | Encapsulamento|
 | Aula07 | Objetos Compostos em JAVA|
 | Aula08 |Agregação entre objetos em JAVA|
+| Aula09 |Exercício prático POO JAVA|
