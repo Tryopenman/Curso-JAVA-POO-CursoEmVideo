@@ -16,3 +16,4 @@ De seguida, é apresentada uma tabela com os tópicos abordados em cada exercíc
 | Aula04 | Métodos Getter, Setter e Construtor |
 | Aula05 | Exemplo Conta Bancária |
 | Aula06 | Encapsulamento|
+| Aula07 | Objetos Compostos em JAVA|
