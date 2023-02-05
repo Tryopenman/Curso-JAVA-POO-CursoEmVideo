@@ -20,3 +20,4 @@ De seguida, é apresentada uma tabela com os tópicos abordados em cada exercíc
 | Aula08 |Agregação entre objetos em JAVA|
 | Aula09 |Exercício prático POO JAVA|
 | Aula10 |Herança (Parte 1)|
+| Aula11 |Herança (Parte 2)|
