@@ -1,4 +1,4 @@
-# Curso JAVA POO-CursoEmVideo
+# Curso JAVA POO / CursoEmVideo
 
 ## Introdução
 
