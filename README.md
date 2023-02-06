@@ -21,4 +21,4 @@ De seguida, é apresentada uma tabela com os tópicos abordados em cada exercíc
 | Aula09 |Exercício prático POO JAVA|
 | Aula10 |Herança (Parte 1)|
 | Aula11 |Herança (Parte 2)|
-| Aula12 |Polimorfismo (Parte 1)|
+| Aula12 |Polimorfismo sobreposição (Parte 1)|
